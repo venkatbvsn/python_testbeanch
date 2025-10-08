@@ -7,3 +7,7 @@ File Name: Assignment1_Task2.py Details: "ASSIGNMENT 1 Module 2 Task 2: Create a
 File Name: Assignment2_Task1.py Details: "ASSIGNMENT 2 Module 3 Task 1: Check if a Number is Even or Odd"
 
 File Name: Assignment2_Task2.py Details: "ASSIGNMENT 2 Module 3 Task 2: Sum of Integers from 1 to 50 Using a Loop"
+
+File Name: Assignment3_Task1.py Details: "ASSIGNMENT 3 Module 4 Task 1: Calculate Factorial Using a Function"
+
+File Name: Assignment3_Task2.py Details: "ASSIGNMENT 3 Module 4 Task 2: Using the Math Module for Calculations"
