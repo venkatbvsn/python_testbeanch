@@ -11,3 +11,7 @@ File Name: Assignment2_Task2.py Details: "ASSIGNMENT 2 Module 3 Task 2: Sum of I
 File Name: Assignment3_Task1.py Details: "ASSIGNMENT 3 Module 4 Task 1: Calculate Factorial Using a Function"
 
 File Name: Assignment3_Task2.py Details: "ASSIGNMENT 3 Module 4 Task 2: Using the Math Module for Calculations"
+
+File Name: Assignment4_Task1.py Details: "ASSIGNMENT 4 Module 4 Task 1: Read a File and Handle Errors"
+
+File Name: Assignment4_Task2.py Details: "ASSIGNMENT 4 Module 4 Task 2: Write and Append Data to a File"
