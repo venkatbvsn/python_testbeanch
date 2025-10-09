@@ -27,5 +27,10 @@ ASSIGNMENT 4 Module 5 Task 2: Write and Append Data to a File
 File Name: \
 Assignment5.py \
 Details: \
-ASSIGNMENT 5 Module 6 Task 1: \
-ASSIGNMENT 5 Module 6 Task 2: 
+ASSIGNMENT 5 Module 6 Task 1: Create a Dictionary of Student Marks, \
+ASSIGNMENT 5 Module 6 Task 2: Demonstrate List Slicing
+
+File Name: \
+Assignment6.py \
+Details: \
+ASSIGNMENT 6 Modules 10 and 11: CALCULATOR USING TKINTER
