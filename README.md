@@ -16,7 +16,7 @@ File Name: \
 Assignment3.py \
 Details: \
 ASSIGNMENT 3 Module 4 Task 1: Calculate Factorial Using a Function, \
-ASSIGNMENT 3 Module 4 Task 2: Using the Math Module for Calculations \
+ASSIGNMENT 3 Module 4 Task 2: Using the Math Module for Calculations
 
 File Name: \
 Assignment4.py \
