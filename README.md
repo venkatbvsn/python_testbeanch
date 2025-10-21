@@ -31,6 +31,6 @@ ASSIGNMENT 5 Module 6 Task 1: Create a Dictionary of Student Marks, \
 ASSIGNMENT 5 Module 6 Task 2: Demonstrate List Slicing
 
 File Name: \
-Assignment6.zip file and Assignment6 folder \
+Assignment6.zip, and Assignment6/Calculator.py \
 Details: \
 ASSIGNMENT 6 Modules 14 and 15: CALCULATOR USING TKINTER
