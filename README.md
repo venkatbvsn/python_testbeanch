@@ -33,4 +33,4 @@ ASSIGNMENT 5 Module 6 Task 2: Demonstrate List Slicing
 File Name: \
 Assignment6.zip file and folder \
 Details: \
-ASSIGNMENT 6 Modules 10 and 11: CALCULATOR USING TKINTER
+ASSIGNMENT 6 Modules 14 and 15: CALCULATOR USING TKINTER
